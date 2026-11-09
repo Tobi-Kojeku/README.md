@@ -9,7 +9,7 @@ I am a Health Data Analyst with a **BSc in Statistics** and an **MSc in Public H
 - **Clinical research support:** statistical analysis for protocol development, study design, and results discussion  
 - **MEAL and monitoring:** indicator analysis, data quality/validation, and reporting to support learning and accountability  
 - **Healthcare service improvement:** evaluating delivery performance and translating findings into recommendations  
-- **Communication and visualization:** clear, publication-ready tables, figures, and narratives for stakeholders
+- **Communication and visualisation:** clear, publication-ready tables, figures, and narratives for stakeholders
 
 ### Tools and methods
 I use **REDCap**, **SQL (via DBeaver)**, **Stata**, **Python**, **R**, **Power BI**, and **NVivo** to build reproducible workflows for data preparation, analysis, and reporting. I emphasize robust data validation, ethical handling of sensitive information (de-identification/aggregation), and transparent methodology.
