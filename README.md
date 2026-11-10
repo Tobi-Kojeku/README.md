@@ -15,6 +15,7 @@ I am a Health Data Analyst with a **BSc in Statistics** and an **MSc in Public H
 I use **REDCap**, **SQL (via DBeaver)**, **Stata**, **Python**, **R**, **Power BI**, and **NVivo** to build reproducible workflows for data preparation, analysis, and reporting. I emphasize robust data validation, ethical handling of sensitive information (de-identification/aggregation), and transparent methodology.
 
 ### Featured work
+- [Grading-Lumbar](https://github.com/Tobi-Kojeku/Grading-Lumbar)
 
 
 ### Socials
