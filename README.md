@@ -14,9 +14,9 @@ I am a Health Data Analyst with a **BSc in Statistics** and an **MSc in Public H
 ### Tools and methods
 I use **REDCap**, **SQL (via DBeaver)**, **Stata**, **Python**, **R**, **Power BI**, and **NVivo** to build reproducible workflows for data preparation, analysis, and reporting. I emphasize robust data validation, ethical handling of sensitive information (de-identification/aggregation), and transparent methodology.
 
-### Featured work
+### Projects
 - [Grading-Lumbar](https://github.com/Tobi-Kojeku/Grading-Lumbar)
-
+- [Hospital-Mortality-Prediction-eICU](https://github.com/Tobi-Kojeku/-Hospital-Mortality-Prediction-eICU-).
 
 ### Socials
 
