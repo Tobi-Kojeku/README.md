@@ -12,12 +12,12 @@ I am a Health Data Analyst with a **BSc in Statistics** and an **MSc in Public H
 - **Communication and visualisation:** clear, publication-ready tables, figures, and narratives for stakeholders
 
 ### Tools and methods
-I use **REDCap**, **SQL (via DBeaver)**, **Stata**, **Python**, **R**, **Power BI**, and **NVivo** to build reproducible workflows for data preparation, analysis, and reporting. I emphasize robust data validation, ethical handling of sensitive information (de-identification/aggregation), and transparent methodology.
+I use **REDCap**, **SQL**, **Stata**, **Python**, **R**, **Power BI**, **Tableau** and **NVivo** to build reproducible workflows for data preparation, analysis, and reporting. I emphasize robust data validation, ethical handling of sensitive information (de-identification/aggregation), and transparent methodology.
 
 ### Projects
 - [Grading-Lumbar](https://github.com/Tobi-Kojeku/Grading-Lumbar)
 - [Hospital-Mortality-Prediction-eICU](https://github.com/Tobi-Kojeku/-Hospital-Mortality-Prediction-eICU-).
-
+- [eICU-Hospital-Mortality-Visualisation](https://github.com/Tobi-Kojeku/eICU-Hospital-Mortality-Visualisation)
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/tobi-kojeku-479b4b242/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
